@@ -1,54 +1,308 @@
 ,MovieID,Title,Genre,UserID,Rating,Gender,Age,Occupation,Zip-code
-0,1,Toy Story (1995),Animation|Children's|Comedy,1,5,Female,Under 18,K-12 student,48067
-1,48,Pocahontas (1995),Animation|Children's|Musical|Romance,1,5,Female,Under 18,K-12 student,48067
-2,150,Apollo 13 (1995),Drama,1,5,Female,Under 18,K-12 student,48067
-3,260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Fantasy|Sci-Fi,1,4,Female,Under 18,K-12 student,48067
-4,527,Schindler's List (1993),Drama|War,1,5,Female,Under 18,K-12 student,48067
-5,531,"Secret Garden, The (1993)",Children's|Drama,1,4,Female,Under 18,K-12 student,48067
-6,588,Aladdin (1992),Animation|Children's|Comedy|Musical,1,4,Female,Under 18,K-12 student,48067
-7,594,Snow White and the Seven Dwarfs (1937),Animation|Children's|Musical,1,4,Female,Under 18,K-12 student,48067
-8,595,Beauty and the Beast (1991),Animation|Children's|Musical,1,5,Female,Under 18,K-12 student,48067
-9,608,Fargo (1996),Crime|Drama|Thriller,1,4,Female,Under 18,K-12 student,48067
-10,661,James and the Giant Peach (1996),Animation|Children's|Musical,1,3,Female,Under 18,K-12 student,48067
-11,720,Wallace & Gromit: The Best of Aardman Animation (1996),Animation,1,3,Female,Under 18,K-12 student,48067
-12,745,"Close Shave, A (1995)",Animation|Comedy|Thriller,1,3,Female,Under 18,K-12 student,48067
-13,783,"Hunchback of Notre Dame, The (1996)",Animation|Children's|Musical,1,4,Female,Under 18,K-12 student,48067
-14,914,My Fair Lady (1964),Musical|Romance,1,3,Female,Under 18,K-12 student,48067
-15,919,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical,1,4,Female,Under 18,K-12 student,48067
-16,938,Gigi (1958),Musical,1,4,Female,Under 18,K-12 student,48067
-17,1022,Cinderella (1950),Animation|Children's|Musical,1,5,Female,Under 18,K-12 student,48067
-18,1028,Mary Poppins (1964),Children's|Comedy|Musical,1,5,Female,Under 18,K-12 student,48067
-19,1029,Dumbo (1941),Animation|Children's|Musical,1,5,Female,Under 18,K-12 student,48067
-20,1035,"Sound of Music, The (1965)",Musical,1,5,Female,Under 18,K-12 student,48067
-21,1097,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi,1,4,Female,Under 18,K-12 student,48067
-22,1193,One Flew Over the Cuckoo's Nest (1975),Drama,1,5,Female,Under 18,K-12 student,48067
-23,1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance,1,3,Female,Under 18,K-12 student,48067
-24,1207,To Kill a Mockingbird (1962),Drama,1,4,Female,Under 18,K-12 student,48067
-25,1246,Dead Poets Society (1989),Drama,1,4,Female,Under 18,K-12 student,48067
-26,1270,Back to the Future (1985),Comedy|Sci-Fi,1,5,Female,Under 18,K-12 student,48067
-27,1287,Ben-Hur (1959),Action|Adventure|Drama,1,5,Female,Under 18,K-12 student,48067
-28,1545,Ponette (1996),Drama,1,4,Female,Under 18,K-12 student,48067
-29,1566,Hercules (1997),Adventure|Animation|Children's|Comedy|Musical,1,4,Female,Under 18,K-12 student,48067
-30,1721,Titanic (1997),Drama|Romance,1,4,Female,Under 18,K-12 student,48067
-31,1836,"Last Days of Disco, The (1998)",Drama,1,5,Female,Under 18,K-12 student,48067
-32,1907,Mulan (1998),Animation|Children's,1,4,Female,Under 18,K-12 student,48067
-33,1961,Rain Man (1988),Drama,1,5,Female,Under 18,K-12 student,48067
-34,1962,Driving Miss Daisy (1989),Drama,1,4,Female,Under 18,K-12 student,48067
-35,2018,Bambi (1942),Animation|Children's,1,4,Female,Under 18,K-12 student,48067
-36,2028,Saving Private Ryan (1998),Action|Drama|War,1,5,Female,Under 18,K-12 student,48067
-37,2294,Antz (1998),Animation|Children's,1,4,Female,Under 18,K-12 student,48067
-38,2321,Pleasantville (1998),Comedy,1,3,Female,Under 18,K-12 student,48067
-39,2340,Meet Joe Black (1998),Romance,1,3,Female,Under 18,K-12 student,48067
-40,2355,"Bug's Life, A (1998)",Animation|Children's|Comedy,1,5,Female,Under 18,K-12 student,48067
-41,2398,Miracle on 34th Street (1947),Drama,1,4,Female,Under 18,K-12 student,48067
-42,2687,Tarzan (1999),Animation|Children's,1,3,Female,Under 18,K-12 student,48067
-43,2692,Run Lola Run (Lola rennt) (1998),Action|Crime|Romance,1,4,Female,Under 18,K-12 student,48067
-44,2762,"Sixth Sense, The (1999)",Thriller,1,4,Female,Under 18,K-12 student,48067
-45,2791,Airplane! (1980),Comedy,1,4,Female,Under 18,K-12 student,48067
-46,2797,Big (1988),Comedy|Fantasy,1,4,Female,Under 18,K-12 student,48067
-47,2804,"Christmas Story, A (1983)",Comedy|Drama,1,5,Female,Under 18,K-12 student,48067
-48,2918,Ferris Bueller's Day Off (1986),Comedy,1,4,Female,Under 18,K-12 student,48067
-49,3105,Awakenings (1990),Drama,1,5,Female,Under 18,K-12 student,48067
-50,3114,Toy Story 2 (1999),Animation|Children's|Comedy,1,4,Female,Under 18,K-12 student,48067
-51,3186,"Girl, Interrupted (1999)",Drama,1,4,Female,Under 18,K-12 student,48067
-52,3408,Erin Brockovich (2000),Drama,1,4,Female,Under 18,K-12 student,48067
+770,1,Toy Story (1995),Animation|Children's|Comedy,18,4,Female,18-24,clerical/admin,95825
+771,2,Jumanji (1995),Adventure|Children's|Fantasy,18,2,Female,18-24,clerical/admin,95825
+772,10,GoldenEye (1995),Action|Adventure|Thriller,18,5,Female,18-24,clerical/admin,95825
+773,17,Sense and Sensibility (1995),Drama|Romance,18,4,Female,18-24,clerical/admin,95825
+774,26,Othello (1995),Drama,18,4,Female,18-24,clerical/admin,95825
+775,29,"City of Lost Children, The (1995)",Adventure|Sci-Fi,18,3,Female,18-24,clerical/admin,95825
+776,34,Babe (1995),Children's|Comedy|Drama,18,5,Female,18-24,clerical/admin,95825
+777,44,Mortal Kombat (1995),Action|Adventure,18,4,Female,18-24,clerical/admin,95825
+778,47,Seven (Se7en) (1995),Crime|Thriller,18,1,Female,18-24,clerical/admin,95825
+779,48,Pocahontas (1995),Animation|Children's|Musical|Romance,18,4,Female,18-24,clerical/admin,95825
+780,50,"Usual Suspects, The (1995)",Crime|Thriller,18,5,Female,18-24,clerical/admin,95825
+781,86,White Squall (1996),Adventure|Drama,18,3,Female,18-24,clerical/admin,95825
+782,95,Broken Arrow (1996),Action|Thriller,18,1,Female,18-24,clerical/admin,95825
+783,110,Braveheart (1995),Action|Drama|War,18,5,Female,18-24,clerical/admin,95825
+784,153,Batman Forever (1995),Action|Adventure|Comedy|Crime,18,3,Female,18-24,clerical/admin,95825
+785,158,Casper (1995),Adventure|Children's,18,4,Female,18-24,clerical/admin,95825
+786,163,Desperado (1995),Action|Romance|Thriller,18,5,Female,18-24,clerical/admin,95825
+787,168,First Knight (1995),Action|Adventure|Drama|Romance,18,1,Female,18-24,clerical/admin,95825
+788,208,Waterworld (1995),Action|Adventure,18,1,Female,18-24,clerical/admin,95825
+789,222,Circle of Friends (1995),Drama|Romance,18,3,Female,18-24,clerical/admin,95825
+790,232,Eat Drink Man Woman (1994),Comedy|Drama,18,4,Female,18-24,clerical/admin,95825
+791,249,Immortal Beloved (1994),Drama|Romance,18,4,Female,18-24,clerical/admin,95825
+790,232,Eat Drink Man Woman (1994),Comedy|Drama,18,4,Female,18-24,clerical/admin,95825
+791,249,Immortal Beloved (1994),Drama|Romance,18,4,Female,18-24,clerical/admin,95825
+792,260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Fantasy|Sci-Fi,18,5,Female,18-24,clerical/admin,95825
+793,261,Little Women (1994),Drama,18,5,Female,18-24,clerical/admin,95825
+794,262,"Little Princess, A (1995)",Children's|Drama,18,5,Female,18-24,clerical/admin,95825
+795,266,Legends of the Fall (1994),Drama|Romance|War|Western,18,3,Female,18-24,clerical/admin,95825
+796,288,Natural Born Killers (1994),Action|Thriller,18,4,Female,18-24,clerical/admin,95825
+797,291,Poison Ivy II (1995),Thriller,18,1,Female,18-24,clerical/admin,95825
+798,292,Outbreak (1995),Action|Drama|Thriller,18,4,Female,18-24,clerical/admin,95825
+799,296,Pulp Fiction (1994),Crime|Drama,18,5,Female,18-24,clerical/admin,95825
+800,302,Queen Margot (La Reine Margot) (1994),Drama|Romance,18,5,Female,18-24,clerical/admin,95825
+801,313,"Swan Princess, The (1994)",Animation|Children's,18,4,Female,18-24,clerical/admin,95825
+802,327,Tank Girl (1995),Action|Comedy|Musical|Sci-Fi,18,3,Female,18-24,clerical/admin,95825
+803,353,"Crow, The (1994)",Action|Romance|Thriller,18,5,Female,18-24,clerical/admin,95825
+804,364,"Lion King, The (1994)",Animation|Children's|Musical,18,5,Female,18-24,clerical/admin,95825
+805,367,"Mask, The (1994)",Comedy|Crime|Fantasy,18,4,Female,18-24,clerical/admin,95825
+806,368,Maverick (1994),Action|Comedy|Western,18,3,Female,18-24,clerical/admin,95825
+807,377,Speed (1994),Action|Romance|Thriller,18,2,Female,18-24,clerical/admin,95825
+808,380,True Lies (1994),Action|Adventure|Comedy|Romance,18,3,Female,18-24,clerical/admin,95825
+809,405,Highlander III: The Sorcerer (1994),Action|Sci-Fi,18,1,Female,18-24,clerical/admin,95825
+810,412,"Age of Innocence, The (1993)",Drama,18,5,Female,18-24,clerical/admin,95825
+811,421,Black Beauty (1994),Adventure|Children's,18,4,Female,18-24,clerical/admin,95825
+812,434,Cliffhanger (1993),Action|Adventure|Crime,18,2,Female,18-24,clerical/admin,95825
+813,454,"Firm, The (1993)",Drama|Thriller,18,3,Female,18-24,clerical/admin,95825
+814,466,Hot Shots! Part Deux (1993),Action|Comedy|War,18,3,Female,18-24,clerical/admin,95825
+815,475,In the Name of the Father (1993),Drama,18,4,Female,18-24,clerical/admin,95825
+816,485,Last Action Hero (1993),Action|Comedy,18,2,Female,18-24,clerical/admin,95825
+817,493,Menace II Society (1993),Action|Crime|Drama,18,3,Female,18-24,clerical/admin,95825
+818,527,Schindler's List (1993),Drama|War,18,5,Female,18-24,clerical/admin,95825
+819,531,"Secret Garden, The (1993)",Children's|Drama,18,5,Female,18-24,clerical/admin,95825
+820,532,Serial Mom (1994),Comedy|Crime|Horror,18,1,Female,18-24,clerical/admin,95825
+821,546,Super Mario Bros. (1993),Action|Adventure|Children's|Sci-Fi,18,2,Female,18-24,clerical/admin,95825
+822,551,"Nightmare Before Christmas, The (1993)",Children's|Comedy|Musical,18,5,Female,18-24,clerical/admin,95825
+823,552,"Three Musketeers, The (1993)",Action|Adventure|Comedy,18,2,Female,18-24,clerical/admin,95825
+824,555,True Romance (1993),Action|Crime|Romance,18,4,Female,18-24,clerical/admin,95825
+825,586,Home Alone (1990),Children's|Comedy,18,4,Female,18-24,clerical/admin,95825
+826,588,Aladdin (1992),Animation|Children's|Comedy|Musical,18,5,Female,18-24,clerical/admin,95825
+827,589,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller,18,5,Female,18-24,clerical/admin,95825
+828,590,Dances with Wolves (1990),Adventure|Drama|Western,18,4,Female,18-24,clerical/admin,95825
+829,592,Batman (1989),Action|Adventure|Crime|Drama,18,4,Female,18-24,clerical/admin,95825
+830,594,Snow White and the Seven Dwarfs (1937),Animation|Children's|Musical,18,5,Female,18-24,clerical/admin,95825
+831,595,Beauty and the Beast (1991),Animation|Children's|Musical,18,5,Female,18-24,clerical/admin,95825
+832,596,Pinocchio (1940),Animation|Children's,18,4,Female,18-24,clerical/admin,95825
+833,616,"Aristocats, The (1970)",Animation|Children's,18,5,Female,18-24,clerical/admin,95825
+834,648,Mission: Impossible (1996),Action|Adventure|Mystery,18,4,Female,18-24,clerical/admin,95825
+835,653,Dragonheart (1996),Action|Adventure|Fantasy,18,3,Female,18-24,clerical/admin,95825
+836,736,Twister (1996),Action|Adventure|Romance|Thriller,18,1,Female,18-24,clerical/admin,95825
+837,737,Barb Wire (1996),Action|Sci-Fi,18,1,Female,18-24,clerical/admin,95825
+838,741,Ghost in the Shell (Kokaku kidotai) (1995),Animation|Sci-Fi,18,5,Female,18-24,clerical/admin,95825
+839,778,Trainspotting (1996),Drama,18,5,Female,18-24,clerical/admin,95825
+840,780,Independence Day (ID4) (1996),Action|Sci-Fi|War,18,3,Female,18-24,clerical/admin,95825
+841,783,"Hunchback of Notre Dame, The (1996)",Animation|Children's|Musical,18,3,Female,18-24,clerical/admin,95825
+842,838,Emma (1996),Comedy|Drama|Romance,18,4,Female,18-24,clerical/admin,95825
+843,839,"Crow: City of Angels, The (1996)",Action|Thriller,18,1,Female,18-24,clerical/admin,95825
+844,902,Breakfast at Tiffany's (1961),Drama|Romance,18,5,Female,18-24,clerical/admin,95825
+845,919,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical,18,5,Female,18-24,clerical/admin,95825
+846,920,Gone with the Wind (1939),Drama|Romance|War,18,5,Female,18-24,clerical/admin,95825
+847,940,"Adventures of Robin Hood, The (1938)",Action|Adventure,18,4,Female,18-24,clerical/admin,95825
+848,969,"African Queen, The (1951)",Action|Adventure|Romance|War,18,5,Female,18-24,clerical/admin,95825
+849,1005,D3: The Mighty Ducks (1996),Children's|Comedy,18,1,Female,18-24,clerical/admin,95825
+850,1013,"Parent Trap, The (1961)",Children's|Drama,18,3,Female,18-24,clerical/admin,95825
+851,1022,Cinderella (1950),Animation|Children's|Musical,18,5,Female,18-24,clerical/admin,95825
+852,1025,"Sword in the Stone, The (1963)",Animation|Children's,18,4,Female,18-24,clerical/admin,95825
+853,1028,Mary Poppins (1964),Children's|Comedy|Musical,18,5,Female,18-24,clerical/admin,95825
+854,1029,Dumbo (1941),Animation|Children's|Musical,18,4,Female,18-24,clerical/admin,95825
+855,1032,Alice in Wonderland (1951),Animation|Children's|Musical,18,4,Female,18-24,clerical/admin,95825
+856,1033,"Fox and the Hound, The (1981)",Animation|Children's,18,4,Female,18-24,clerical/admin,95825
+857,1036,Die Hard (1988),Action|Thriller,18,3,Female,18-24,clerical/admin,95825
+858,1049,"Ghost and the Darkness, The (1996)",Action|Adventure,18,1,Female,18-24,clerical/admin,95825
+859,1064,Aladdin and the King of Thieves (1996),Animation|Children's|Comedy,18,2,Female,18-24,clerical/admin,95825
+860,1073,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy|Fantasy,18,4,Female,18-24,clerical/admin,95825
+861,1089,Reservoir Dogs (1992),Crime|Thriller,18,5,Female,18-24,clerical/admin,95825
+862,1094,"Crying Game, The (1992)",Drama|Romance|War,18,4,Female,18-24,clerical/admin,95825
+863,1097,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi,18,5,Female,18-24,clerical/admin,95825
+864,1126,Drop Dead Fred (1991),Comedy|Fantasy,18,1,Female,18-24,clerical/admin,95825
+865,1185,My Left Foot (1989),Drama,18,5,Female,18-24,clerical/admin,95825
+866,1186,"Sex, Lies, and Videotape (1989)",Drama,18,1,Female,18-24,clerical/admin,95825
+867,1193,One Flew Over the Cuckoo's Nest (1975),Drama,18,4,Female,18-24,clerical/admin,95825
+868,1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Drama|Sci-Fi|War,18,5,Female,18-24,clerical/admin,95825
+869,1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance,18,5,Female,18-24,clerical/admin,95825
+870,1198,Raiders of the Lost Ark (1981),Action|Adventure,18,5,Female,18-24,clerical/admin,95825
+871,1200,Aliens (1986),Action|Sci-Fi|Thriller|War,18,4,Female,18-24,clerical/admin,95825
+872,1201,"Good, The Bad and The Ugly, The (1966)",Action|Western,18,4,Female,18-24,clerical/admin,95825
+873,1207,To Kill a Mockingbird (1962),Drama,18,5,Female,18-24,clerical/admin,95825
+874,1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War,18,5,Female,18-24,clerical/admin,95825
+875,1215,Army of Darkness (1993),Action|Adventure|Comedy|Horror|Sci-Fi,18,5,Female,18-24,clerical/admin,95825
+876,1234,"Sting, The (1973)",Comedy|Crime,18,5,Female,18-24,clerical/admin,95825
+877,1240,"Terminator, The (1984)",Action|Sci-Fi|Thriller,18,5,Female,18-24,clerical/admin,95825
+878,1242,Glory (1989),Action|Drama|War,18,5,Female,18-24,clerical/admin,95825
+879,1246,Dead Poets Society (1989),Drama,18,5,Female,18-24,clerical/admin,95825
+880,1259,Stand by Me (1986),Adventure|Comedy|Drama,18,5,Female,18-24,clerical/admin,95825
+881,1271,Fried Green Tomatoes (1991),Drama,18,5,Female,18-24,clerical/admin,95825
+882,1274,Akira (1988),Adventure|Animation|Sci-Fi|Thriller,18,5,Female,18-24,clerical/admin,95825
+883,1275,Highlander (1986),Action|Adventure,18,5,Female,18-24,clerical/admin,95825
+884,1282,Fantasia (1940),Animation|Children's|Musical,18,5,Female,18-24,clerical/admin,95825
+885,1291,Indiana Jones and the Last Crusade (1989),Action|Adventure,18,5,Female,18-24,clerical/admin,95825
+886,1344,Cape Fear (1962),Film-Noir|Thriller,18,3,Female,18-24,clerical/admin,95825
+887,1357,Shine (1996),Drama|Romance,18,5,Female,18-24,clerical/admin,95825
+888,1367,101 Dalmatians (1996),Children's|Comedy,18,1,Female,18-24,clerical/admin,95825
+889,1377,Batman Returns (1992),Action|Adventure|Comedy|Crime,18,2,Female,18-24,clerical/admin,95825
+890,1378,Young Guns (1988),Action|Comedy|Western,18,4,Female,18-24,clerical/admin,95825
+891,1379,Young Guns II (1990),Action|Comedy|Western,18,3,Female,18-24,clerical/admin,95825
+892,1387,Jaws (1975),Action|Horror,18,4,Female,18-24,clerical/admin,95825
+893,1391,Mars Attacks! (1996),Action|Comedy|Sci-Fi|War,18,3,Female,18-24,clerical/admin,95825
+894,1396,Sneakers (1992),Crime|Drama|Sci-Fi,18,4,Female,18-24,clerical/admin,95825
+895,1408,"Last of the Mohicans, The (1992)",Action|Romance|War,18,5,Female,18-24,clerical/admin,95825
+896,1411,Hamlet (1996),Drama,18,5,Female,18-24,clerical/admin,95825
+897,1499,Anaconda (1997),Action|Adventure|Thriller,18,1,Female,18-24,clerical/admin,95825
+898,1500,Grosse Pointe Blank (1997),Comedy|Crime,18,4,Female,18-24,clerical/admin,95825
+899,1527,"Fifth Element, The (1997)",Action|Sci-Fi,18,4,Female,18-24,clerical/admin,95825
+900,1544,"Lost World: Jurassic Park, The (1997)",Action|Adventure|Sci-Fi|Thriller,18,3,Female,18-24,clerical/admin,95825
+901,1552,Con Air (1997),Action|Adventure|Thriller,18,1,Female,18-24,clerical/admin,95825
+902,1562,Batman & Robin (1997),Action|Adventure|Crime,18,1,Female,18-24,clerical/admin,95825
+903,1580,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi,18,5,Female,18-24,clerical/admin,95825
+904,1587,Conan the Barbarian (1982),Action|Adventure,18,4,Female,18-24,clerical/admin,95825
+905,1591,Spawn (1997),Action|Adventure|Sci-Fi|Thriller,18,1,Female,18-24,clerical/admin,95825
+906,1606,Kull the Conqueror (1997),Action|Adventure,18,2,Female,18-24,clerical/admin,95825
+907,1617,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller,18,5,Female,18-24,clerical/admin,95825
+908,1635,"Ice Storm, The (1997)",Drama,18,1,Female,18-24,clerical/admin,95825
+909,1639,Chasing Amy (1997),Drama|Romance,18,4,Female,18-24,clerical/admin,95825
+910,1643,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",Drama|Romance,18,5,Female,18-24,clerical/admin,95825
+911,1654,FairyTale: A True Story (1997),Children's|Drama|Fantasy,18,4,Female,18-24,clerical/admin,95825
+912,1676,Starship Troopers (1997),Action|Adventure|Sci-Fi|War,18,3,Female,18-24,clerical/admin,95825
+913,1678,"Joy Luck Club, The (1993)",Drama,18,5,Female,18-24,clerical/admin,95825
+914,1682,"Truman Show, The (1998)",Drama,18,4,Female,18-24,clerical/admin,95825
+915,1683,"Wings of the Dove, The (1997)",Drama|Romance|Thriller,18,5,Female,18-24,clerical/admin,95825
+916,1688,Anastasia (1997),Animation|Children's|Musical,18,4,Female,18-24,clerical/admin,95825
+917,1690,Alien: Resurrection (1997),Action|Horror|Sci-Fi,18,1,Female,18-24,clerical/admin,95825
+918,1702,Flubber (1997),Children's|Comedy|Fantasy,18,4,Female,18-24,clerical/admin,95825
+919,1711,Midnight in the Garden of Good and Evil (1997),Comedy|Crime|Drama|Mystery,18,4,Female,18-24,clerical/admin,95825
+920,1721,Titanic (1997),Drama|Romance,18,4,Female,18-24,clerical/admin,95825
+921,1732,"Big Lebowski, The (1998)",Comedy|Crime|Mystery|Thriller,18,3,Female,18-24,clerical/admin,95825
+922,1739,3 Ninjas: High Noon On Mega Mountain (1998),Action|Children's,18,1,Female,18-24,clerical/admin,95825
+923,1784,As Good As It Gets (1997),Comedy|Drama,18,4,Female,18-24,clerical/admin,95825
+924,1801,"Man in the Iron Mask, The (1998)",Action|Drama|Romance,18,1,Female,18-24,clerical/admin,95825
+925,1804,"Newton Boys, The (1998)",Crime|Drama,18,3,Female,18-24,clerical/admin,95825
+926,1805,Wild Things (1998),Crime|Drama|Mystery|Thriller,18,4,Female,18-24,clerical/admin,95825
+927,1873,"Mis�rables, Les (1998)",Drama,18,5,Female,18-24,clerical/admin,95825
+928,1876,Deep Impact (1998),Action|Drama|Sci-Fi|Thriller,18,3,Female,18-24,clerical/admin,95825
+929,1882,Godzilla (1998),Action|Sci-Fi,18,1,Female,18-24,clerical/admin,95825
+930,1907,Mulan (1998),Animation|Children's,18,5,Female,18-24,clerical/admin,95825
+931,1918,Lethal Weapon 4 (1998),Action|Comedy|Crime|Drama,18,3,Female,18-24,clerical/admin,95825
+932,1954,Rocky (1976),Action|Drama,18,3,Female,18-24,clerical/admin,95825
+933,1956,Ordinary People (1980),Drama,18,4,Female,18-24,clerical/admin,95825
+934,1960,"Last Emperor, The (1987)",Drama|War,18,5,Female,18-24,clerical/admin,95825
+935,1962,Driving Miss Daisy (1989),Drama,18,5,Female,18-24,clerical/admin,95825
+936,1967,Labyrinth (1986),Adventure|Children's|Fantasy,18,5,Female,18-24,clerical/admin,95825
+937,1968,"Breakfast Club, The (1985)",Comedy|Drama,18,5,Female,18-24,clerical/admin,95825
+938,2000,Lethal Weapon (1987),Action|Comedy|Crime|Drama,18,4,Female,18-24,clerical/admin,95825
+939,2001,Lethal Weapon 2 (1989),Action|Comedy|Crime|Drama,18,3,Female,18-24,clerical/admin,95825
+940,2002,Lethal Weapon 3 (1992),Action|Comedy|Crime|Drama,18,4,Female,18-24,clerical/admin,95825
+941,2005,"Goonies, The (1985)",Adventure|Children's|Fantasy,18,5,Female,18-24,clerical/admin,95825
+942,2006,"Mask of Zorro, The (1998)",Action|Adventure|Romance,18,3,Female,18-24,clerical/admin,95825
+943,2014,Freaky Friday (1977),Children's|Comedy,18,2,Female,18-24,clerical/admin,95825
+944,2018,Bambi (1942),Animation|Children's,18,4,Female,18-24,clerical/admin,95825
+945,2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),Action|Drama,18,5,Female,18-24,clerical/admin,95825
+946,2020,Dangerous Liaisons (1988),Drama|Romance,18,5,Female,18-24,clerical/admin,95825
+947,2021,Dune (1984),Fantasy|Sci-Fi,18,4,Female,18-24,clerical/admin,95825
+948,2025,Lolita (1997),Drama|Romance,18,2,Female,18-24,clerical/admin,95825
+949,2028,Saving Private Ryan (1998),Action|Drama|War,18,5,Female,18-24,clerical/admin,95825
+950,2042,D2: The Mighty Ducks (1994),Children's|Comedy,18,1,Female,18-24,clerical/admin,95825
+951,2052,Hocus Pocus (1993),Children's|Comedy,18,3,Female,18-24,clerical/admin,95825
+952,2054,"Honey, I Shrunk the Kids (1989)",Adventure|Children's|Comedy|Fantasy|Sci-Fi,18,3,Female,18-24,clerical/admin,95825
+953,2076,Blue Velvet (1986),Drama|Mystery,18,3,Female,18-24,clerical/admin,95825
+954,2078,"Jungle Book, The (1967)",Animation|Children's|Comedy|Musical,18,4,Female,18-24,clerical/admin,95825
+955,2080,Lady and the Tramp (1955),Animation|Children's|Comedy|Musical|Romance,18,5,Female,18-24,clerical/admin,95825
+956,2081,"Little Mermaid, The (1989)",Animation|Children's|Comedy|Musical|Romance,18,5,Female,18-24,clerical/admin,95825
+957,2082,"Mighty Ducks, The (1992)",Children's|Comedy,18,4,Female,18-24,clerical/admin,95825
+958,2083,"Muppet Christmas Carol, The (1992)",Children's|Musical,18,5,Female,18-24,clerical/admin,95825
+959,2085,101 Dalmatians (1961),Animation|Children's,18,4,Female,18-24,clerical/admin,95825
+960,2087,Peter Pan (1953),Animation|Children's|Fantasy|Musical,18,4,Female,18-24,clerical/admin,95825
+961,2089,"Rescuers Down Under, The (1990)",Animation|Children's,18,4,Female,18-24,clerical/admin,95825
+962,2090,"Rescuers, The (1977)",Animation|Children's,18,5,Female,18-24,clerical/admin,95825
+963,2093,Return to Oz (1985),Adventure|Children's|Fantasy|Sci-Fi,18,3,Female,18-24,clerical/admin,95825
+964,2096,Sleeping Beauty (1959),Animation|Children's|Musical,18,5,Female,18-24,clerical/admin,95825
+965,2100,Splash (1984),Comedy|Fantasy|Romance,18,4,Female,18-24,clerical/admin,95825
+966,2105,Tron (1982),Action|Adventure|Fantasy|Sci-Fi,18,4,Female,18-24,clerical/admin,95825
+967,2115,Indiana Jones and the Temple of Doom (1984),Action|Adventure,18,5,Female,18-24,clerical/admin,95825
+968,2116,"Lord of the Rings, The (1978)",Adventure|Animation|Children's|Sci-Fi,18,4,Female,18-24,clerical/admin,95825
+969,2123,All Dogs Go to Heaven (1989),Animation|Children's,18,3,Female,18-24,clerical/admin,95825
+970,2133,Adventures in Babysitting (1987),Adventure|Comedy,18,3,Female,18-24,clerical/admin,95825
+971,2137,Charlotte's Web (1973),Animation|Children's,18,5,Female,18-24,clerical/admin,95825
+972,2139,"Secret of NIMH, The (1982)",Animation|Children's,18,5,Female,18-24,clerical/admin,95825
+973,2140,"Dark Crystal, The (1982)",Children's|Fantasy|Sci-Fi,18,4,Female,18-24,clerical/admin,95825
+974,2141,"American Tail, An (1986)",Animation|Children's|Comedy,18,5,Female,18-24,clerical/admin,95825
+975,2142,"American Tail: Fievel Goes West, An (1991)",Animation|Children's|Comedy,18,3,Female,18-24,clerical/admin,95825
+976,2143,Legend (1985),Adventure|Fantasy|Romance,18,5,Female,18-24,clerical/admin,95825
+977,2145,Pretty in Pink (1986),Comedy|Drama|Romance,18,3,Female,18-24,clerical/admin,95825
+978,2153,"Avengers, The (1998)",Action|Adventure,18,3,Female,18-24,clerical/admin,95825
+979,2161,"NeverEnding Story, The (1984)",Adventure|Children's|Fantasy,18,5,Female,18-24,clerical/admin,95825
+980,2167,Blade (1998),Action|Adventure|Horror,18,4,Female,18-24,clerical/admin,95825
+981,2193,Willow (1988),Action|Adventure|Fantasy,18,5,Female,18-24,clerical/admin,95825
+982,2194,"Untouchables, The (1987)",Action|Crime|Drama,18,4,Female,18-24,clerical/admin,95825
+983,2248,Say Anything... (1989),Comedy|Drama|Romance,18,4,Female,18-24,clerical/admin,95825
+984,2253,Toys (1992),Action|Comedy|Fantasy,18,1,Female,18-24,clerical/admin,95825
+985,2268,"Few Good Men, A (1992)",Crime|Drama,18,4,Female,18-24,clerical/admin,95825
+986,2278,Ronin (1998),Action|Crime|Thriller,18,3,Female,18-24,clerical/admin,95825
+987,2291,Edward Scissorhands (1990),Drama|Romance,18,5,Female,18-24,clerical/admin,95825
+988,2294,Antz (1998),Animation|Children's,18,4,Female,18-24,clerical/admin,95825
+989,2336,Elizabeth (1998),Drama,18,5,Female,18-24,clerical/admin,95825
+990,2348,Sid and Nancy (1986),Drama,18,3,Female,18-24,clerical/admin,95825
+991,2355,"Bug's Life, A (1998)",Animation|Children's|Comedy,18,5,Female,18-24,clerical/admin,95825
+992,2370,"Emerald Forest, The (1985)",Action|Adventure|Drama,18,5,Female,18-24,clerical/admin,95825
+993,2373,Red Sonja (1985),Action|Adventure,18,3,Female,18-24,clerical/admin,95825
+994,2375,"Money Pit, The (1986)",Comedy,18,4,Female,18-24,clerical/admin,95825
+995,2384,Babe: Pig in the City (1998),Children's|Comedy,18,2,Female,18-24,clerical/admin,95825
+996,2391,"Simple Plan, A (1998)",Crime|Thriller,18,1,Female,18-24,clerical/admin,95825
+997,2394,"Prince of Egypt, The (1998)",Animation|Musical,18,4,Female,18-24,clerical/admin,95825
+998,2402,Rambo: First Blood Part II (1985),Action|War,18,2,Female,18-24,clerical/admin,95825
+999,2404,Rambo III (1988),Action|War,18,2,Female,18-24,clerical/admin,95825
+1000,2414,Young Sherlock Holmes (1985),Action|Adventure|Mystery,18,4,Female,18-24,clerical/admin,95825
+1001,2421,"Karate Kid, Part II, The (1986)",Action|Adventure|Drama,18,1,Female,18-24,clerical/admin,95825
+1002,2422,"Karate Kid III, The (1989)",Action|Adventure|Drama,18,1,Female,18-24,clerical/admin,95825
+1003,2450,Howard the Duck (1986),Adventure|Children's|Sci-Fi,18,1,Female,18-24,clerical/admin,95825
+1004,2470,Crocodile Dundee (1986),Adventure|Comedy,18,3,Female,18-24,clerical/admin,95825
+1005,2542,"Lock, Stock & Two Smoking Barrels (1998)",Comedy|Crime|Thriller,18,4,Female,18-24,clerical/admin,95825
+1006,2573,Tango (1998),Drama,18,4,Female,18-24,clerical/admin,95825
+1007,2616,Dick Tracy (1990),Action|Crime,18,4,Female,18-24,clerical/admin,95825
+1008,2617,"Mummy, The (1999)",Action|Adventure|Horror|Thriller,18,1,Female,18-24,clerical/admin,95825
+1009,2622,"Midsummer Night's Dream, A (1999)",Comedy|Fantasy,18,5,Female,18-24,clerical/admin,95825
+1010,2628,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Fantasy|Sci-Fi,18,4,Female,18-24,clerical/admin,95825
+1011,2686,"Red Violin, The (Le Violon rouge) (1998)",Drama|Mystery,18,5,Female,18-24,clerical/admin,95825
+1012,2701,Wild Wild West (1999),Action|Sci-Fi|Western,18,3,Female,18-24,clerical/admin,95825
+1013,2718,Drop Dead Gorgeous (1999),Comedy,18,2,Female,18-24,clerical/admin,95825
+1014,2723,Mystery Men (1999),Action|Adventure|Comedy,18,1,Female,18-24,clerical/admin,95825
+1015,2735,"Golden Child, The (1986)",Action|Adventure|Comedy,18,3,Female,18-24,clerical/admin,95825
+1016,2739,"Color Purple, The (1985)",Drama,18,5,Female,18-24,clerical/admin,95825
+1017,2763,"Thomas Crown Affair, The (1999)",Action|Thriller,18,3,Female,18-24,clerical/admin,95825
+1018,2764,"Thomas Crown Affair, The (1968)",Crime|Drama|Thriller,18,4,Female,18-24,clerical/admin,95825
+1019,2797,Big (1988),Comedy|Fantasy,18,4,Female,18-24,clerical/admin,95825
+1020,2807,Universal Soldier: The Return (1999),Action|Sci-Fi,18,1,Female,18-24,clerical/admin,95825
+1021,2826,"13th Warrior, The (1999)",Action|Horror|Thriller,18,4,Female,18-24,clerical/admin,95825
+1022,2858,American Beauty (1999),Comedy|Drama,18,5,Female,18-24,clerical/admin,95825
+1023,2872,Excalibur (1981),Action|Drama|Fantasy|Romance,18,5,Female,18-24,clerical/admin,95825
+1024,2893,Plunkett & MaCleane (1999),Action|Drama,18,2,Female,18-24,clerical/admin,95825
+1025,2916,Total Recall (1990),Action|Adventure|Sci-Fi|Thriller,18,3,Female,18-24,clerical/admin,95825
+1026,2947,Goldfinger (1964),Action,18,5,Female,18-24,clerical/admin,95825
+1027,2948,From Russia with Love (1963),Action,18,5,Female,18-24,clerical/admin,95825
+1028,2951,"Fistful of Dollars, A (1964)",Action|Western,18,4,Female,18-24,clerical/admin,95825
+1029,2953,Home Alone 2: Lost in New York (1992),Children's|Comedy,18,1,Female,18-24,clerical/admin,95825
+1030,2959,Fight Club (1999),Drama,18,4,Female,18-24,clerical/admin,95825
+1031,2987,Who Framed Roger Rabbit? (1988),Adventure|Animation|Film-Noir,18,5,Female,18-24,clerical/admin,95825
+1032,2989,For Your Eyes Only (1981),Action,18,5,Female,18-24,clerical/admin,95825
+1033,2993,Thunderball (1965),Action,18,5,Female,18-24,clerical/admin,95825
+1034,3034,Robin Hood (1973),Animation|Children's,18,5,Female,18-24,clerical/admin,95825
+1035,3108,"Fisher King, The (1991)",Comedy|Drama|Romance,18,4,Female,18-24,clerical/admin,95825
+1036,3175,Galaxy Quest (1999),Adventure|Comedy|Sci-Fi,18,5,Female,18-24,clerical/admin,95825
+1037,3247,Sister Act (1992),Comedy|Crime,18,4,Female,18-24,clerical/admin,95825
+1038,3252,Scent of a Woman (1992),Drama,18,4,Female,18-24,clerical/admin,95825
+1039,3255,"League of Their Own, A (1992)",Comedy|Drama,18,4,Female,18-24,clerical/admin,95825
+1040,3257,"Bodyguard, The (1992)",Action|Drama|Romance|Thriller,18,2,Female,18-24,clerical/admin,95825
+1041,3260,Howards End (1992),Drama,18,5,Female,18-24,clerical/admin,95825
+1042,3269,Forever Young (1992),Adventure|Romance|Sci-Fi,18,4,Female,18-24,clerical/admin,95825
+1043,3396,"Muppet Movie, The (1979)",Children's|Comedy,18,5,Female,18-24,clerical/admin,95825
+1044,3397,"Great Muppet Caper, The (1981)",Children's|Comedy,18,5,Female,18-24,clerical/admin,95825
+1045,3398,"Muppets Take Manhattan, The (1984)",Children's|Comedy,18,5,Female,18-24,clerical/admin,95825
+1046,3399,Sesame Street Presents Follow That Bird (1985),Children's|Comedy,18,4,Female,18-24,clerical/admin,95825
+1047,3418,Thelma & Louise (1991),Action|Drama,18,1,Female,18-24,clerical/admin,95825
+1048,3438,Teenage Mutant Ninja Turtles (1990),Action|Children's|Fantasy,18,2,Female,18-24,clerical/admin,95825
+1049,3439,Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991),Action|Children's|Fantasy,18,1,Female,18-24,clerical/admin,95825
+1050,3440,Teenage Mutant Ninja Turtles III (1993),Action|Children's|Fantasy,18,1,Female,18-24,clerical/admin,95825
+1051,3448,"Good Morning, Vietnam (1987)",Comedy|Drama|War,18,4,Female,18-24,clerical/admin,95825
+1052,3461,Lord of the Flies (1963),Adventure|Drama|Thriller,18,3,Female,18-24,clerical/admin,95825
+1053,3479,Ladyhawke (1985),Adventure|Fantasy|Romance,18,5,Female,18-24,clerical/admin,95825
+1054,3489,Hook (1991),Adventure|Fantasy,18,4,Female,18-24,clerical/admin,95825
+1055,3494,True Grit (1969),Adventure|Western,18,4,Female,18-24,clerical/admin,95825
+1056,3526,Parenthood (1989),Comedy|Drama,18,3,Female,18-24,clerical/admin,95825
+1057,3527,Predator (1987),Action|Sci-Fi|Thriller,18,2,Female,18-24,clerical/admin,95825
+1058,3578,Gladiator (2000),Action|Drama,18,4,Female,18-24,clerical/admin,95825
+1059,3623,Mission: Impossible 2 (2000),Action|Thriller,18,1,Female,18-24,clerical/admin,95825
+1060,3633,On Her Majesty's Secret Service (1969),Action,18,5,Female,18-24,clerical/admin,95825
+1061,3635,"Spy Who Loved Me, The (1977)",Action,18,5,Female,18-24,clerical/admin,95825
+1062,3639,"Man with the Golden Gun, The (1974)",Action,18,5,Female,18-24,clerical/admin,95825
+1063,3668,Romeo and Juliet (1968),Drama|Romance,18,3,Female,18-24,clerical/admin,95825
+1064,3698,"Running Man, The (1987)",Action|Adventure|Sci-Fi,18,3,Female,18-24,clerical/admin,95825
+1065,3703,Mad Max 2 (a.k.a. The Road Warrior) (1981),Action|Sci-Fi,18,5,Female,18-24,clerical/admin,95825
+1066,3704,Mad Max Beyond Thunderdome (1985),Action|Sci-Fi,18,4,Female,18-24,clerical/admin,95825
+1067,3705,Bird on a Wire (1990),Action|Adventure|Romance|Thriller,18,3,Female,18-24,clerical/admin,95825
+1068,3723,Hamlet (1990),Drama,18,4,Female,18-24,clerical/admin,95825
+1069,3751,Chicken Run (2000),Animation|Children's|Comedy,18,5,Female,18-24,clerical/admin,95825
+1070,3753,"Patriot, The (2000)",Action|Drama|War,18,3,Female,18-24,clerical/admin,95825
+1071,3793,X-Men (2000),Action|Sci-Fi,18,5,Female,18-24,clerical/admin,95825
+1072,3877,Supergirl (1984),Action|Adventure|Fantasy,18,1,Female,18-24,clerical/admin,95825
+1073,3889,Highlander: Endgame (2000),Action|Adventure|Fantasy,18,1,Female,18-24,clerical/admin,95825
+1074,3911,Best in Show (2000),Comedy,18,1,Female,18-24,clerical/admin,95825
