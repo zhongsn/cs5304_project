@@ -18,6 +18,7 @@ def recommend_from_one_movie(title):
 
 def recommend_for_one_user(test_data_path):
 	test_df = pd.read_csv(test_data_path)
+	# recommend according to the highest rated movies. Would add more algorithm later
 	high_rated_movies = test_df[test_df['Rating'] == 5]
 
 	scores = np.zeros(movies.shape[0])
